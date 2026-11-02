@@ -25,16 +25,15 @@ Companies receive invoices in hundreds of layouts. Typing them in by hand is slo
 | Over time | Cost stays flat | **Cost falls** as template memory grows |
 | Audit trail | Usually none | JSON, CSV, SQLite and trace logs for every run |
 
-<!-- TODO: fill in real numbers, then remove these comment markers to show this section.
+<!-- TODO: fill in real numbers, then remove the comment markers on the first and last lines of this block to show it.
 ## Results
 
 | Metric | Result |
-|-->
-
----|---|
-| Field-level accuracy (required fields) | `[X]%` on `[N]` test invoices |
-| Time per document | `[X] min` manual → `[Y] sec` with AiOcr |
-| LLM calls saved on repeated layouts | `[X]%` after first approval |
+| :- | :- |
+| Field-level accuracy (required fields) | [X]% on [N] test invoices |
+| Time per document | [X] min manual to [Y] sec with AiOcr |
+| LLM calls saved on repeated layouts | [X]% after first approval |
+END OF RESULTS TODO -->
 
 ---
 
